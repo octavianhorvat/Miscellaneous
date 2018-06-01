@@ -1,2 +1,2 @@
 # Miscellaneous
-Various items, files, bits and pieces of stuff.
+Various items, files, bytes, bits and pieces of stuff.
